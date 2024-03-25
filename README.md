@@ -1,3 +1,5 @@
+原博文和效果地址 [flip - 更好玩的动画](https://juejin.cn/post/7210324860647112761?share_token=e6d96c15-d75c-48ba-b9f2-bac5ab005b4c)
+
 # vue3+ts
 
 This template should help get you started developing with Vue 3 in Vite.
